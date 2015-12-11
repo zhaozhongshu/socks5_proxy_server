@@ -1,0 +1,12 @@
+{
+  "name": "socks5_proxy_server",
+  "version": "0.0.0",
+  "description": "socks5 proxy server",
+  "main": "socks.js",
+  "author": {
+    "name": "zhaozhongshu",
+    "email": "zhaozhongshu@baidu.com"
+  },
+  "dependencies": {
+  }
+}
